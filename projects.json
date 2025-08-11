@@ -41,7 +41,10 @@
       "title": "Westview",
       "year": "",
       "description": "Design Development | Proposed Final Design. Phase 1 of a four‑phase wrap‑style building in Round Rock, Texas. The proposal centered on a \"boulevard\" concept providing pedestrian access through the building and a landscaped spine, enhancing urban character and supporting a modern, mixed‑use development. Package prepared for client approvals of the proposed design.",
-      "draft": true
+      "hero": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='900'><rect fill='%23f2f2f2' width='100%25' height='100%25'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial, sans-serif' font-size='48' fill='%23999'>Westview</text></svg>",
+      "images": [
+        "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='900'><rect fill='%23f2f2f2' width='100%25' height='100%25'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial, sans-serif' font-size='48' fill='%23999'>Westview</text></svg>"
+      ]
     },
     {
       "slug": "parmer-sector-9",
