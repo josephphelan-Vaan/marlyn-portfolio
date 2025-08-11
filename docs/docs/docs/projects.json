@@ -1,0 +1,79 @@
+{
+  "projects": [
+    {
+      "slug": "222-riverside",
+      "title": "222 riverside",
+      "year": "",
+      "hero": "./Projects/222 riverside/MASSING 1.jpg",
+      "images": [
+        "./Projects/222 riverside/MASSING 1.jpg",
+        "./Projects/222 riverside/MASSING 2.jpg",
+        "./Projects/222 riverside/MASSING 3.jpg",
+        "./Projects/222 riverside/MASSING 4.jpg",
+        "./Projects/222 riverside/MASSING 5.jpg",
+        "./Projects/222 riverside/MASSING 6.jpg"
+      ]
+    },
+    {
+      "slug": "ethos-v",
+      "title": "Ethos V",
+      "year": "",
+      "description": "Design Development – Construction Administration. This 312‑unit garden‑style residential community is comprised of nine buildings. The clubhouse is integrated within one of the three‑story buildings, enabling a two‑story clubhouse with an accessible rooftop terrace as a central hub for relaxation, work, and recreation. In collaboration with interiors, the lounge, study, and fitness areas use a mix of materials and varied ceiling heights to create an inviting, home‑like atmosphere while keeping each space distinct. A defining feature is the rock‑climbing wall within a double‑height volume, with the second‑floor fitness overlooking the space for visual connection.",
+      "hero": "./Projects/Ethos V/strata15-f36432a8b584fce51f1b82808d5f4bb0.jpeg",
+      "images": [
+        "./Projects/Ethos V/strata15-f36432a8b584fce51f1b82808d5f4bb0.jpeg",
+        "./Projects/Ethos V/strata16-5379b20687a71354c8ffad1f2d2152a7.jpeg",
+        "./Projects/Ethos V/strata21-5105f0579a9c91eb08362a3faca3971f.jpeg"
+      ]
+    },
+    {
+      "slug": "the-post",
+      "title": "The Post",
+      "year": "",
+      "description": "Design Development – Construction Administration. A 399‑unit garden‑style complex of six three‑story buildings and a standalone clubhouse. To balance a modern aesthetic with traditional pitched‑roof construction, the design introduces a \"house pop‑out\" to enrich the massing and break repetitive rhythms, complemented by metal‑clad balconies that required new construction details. The clubhouse is divided into leasing, fitness, and lounge/study volumes linked by covered walkways, optimizing privacy and functionality for residents across amenities.",
+      "hero": "./Projects/Parmer Sector 9/The-Post_2_-061-6085e4ab9744b17e51fbd43a23613dc8.jpeg",
+      "images": [
+        "./Projects/Parmer Sector 9/The-Post_2_-061-6085e4ab9744b17e51fbd43a23613dc8.jpeg"
+      ]
+    },
+    {
+      "slug": "westview",
+      "title": "Westview",
+      "year": "",
+      "description": "Design Development | Proposed Final Design. Phase 1 of a four‑phase wrap‑style building in Round Rock, Texas. The proposal centered on a \"boulevard\" concept providing pedestrian access through the building and a landscaped spine, enhancing urban character and supporting a modern, mixed‑use development. Package prepared for client approvals of the proposed design.",
+      "hero": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='900'><rect fill='%23f2f2f2' width='100%25' height='100%25'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial, sans-serif' font-size='48' fill='%23999'>Westview</text></svg>",
+      "images": [
+        "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='900'><rect fill='%23f2f2f2' width='100%25' height='100%25'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial, sans-serif' font-size='48' fill='%23999'>Westview</text></svg>"
+      ]
+    },
+    {
+      "slug": "parmer-sector-9",
+      "title": "Parmer Sector 9",
+      "year": "",
+      "hero": "./Projects/Parmer Sector 9/PS9.jpeg",
+      "images": [
+        "./Projects/Parmer Sector 9/PS9.jpeg",
+        "./Projects/Parmer Sector 9/PS9_CLUBHOUSE COLOR STUDY.png",
+        "./Projects/Parmer Sector 9/The-Post_2_-061-6085e4ab9744b17e51fbd43a23613dc8.jpeg"
+      ]
+    },
+    {
+      "slug": "rural-studio",
+      "title": "Rural Studio",
+      "year": "",
+      "hero": "./Projects/Rural Studio/DSC_0076.JPG",
+      "images": [
+        "./Projects/Rural Studio/DSC_0076.JPG",
+        "./Projects/Rural Studio/IMG_5655.JPG",
+        "./Projects/Rural Studio/IMG_5899.JPG",
+        "./Projects/Rural Studio/IMG_5906.JPG",
+        "./Projects/Rural Studio/IMG_6076.jpg",
+        "./Projects/Rural Studio/IMG_7356.JPG",
+        "./Projects/Rural Studio/Main Image.jpg",
+        "./Projects/Rural Studio/Reggie's_SummerPlan.jpg",
+        "./Projects/Rural Studio/Reggie's_WinterPlan.jpg",
+        "./Projects/Rural Studio/systems circle 2.jpg"
+      ]
+    }
+  ]
+}
